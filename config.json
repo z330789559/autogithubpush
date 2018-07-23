@@ -1,0 +1,13 @@
+{
+  "webhook": [
+    {
+      "path": "d:/nodeproject/webhooktest/bin",
+      "key": "ariesframe"
+    },
+    {
+      "path": "d://nodeproject/venus",
+      "key": "venus"
+    }
+  ],
+  "serverdom": "http://121.40.242.195/api/v4/"
+}
